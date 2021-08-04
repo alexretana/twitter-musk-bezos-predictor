@@ -1,0 +1,10 @@
+name : twitterMLAPI
+dependencies:
+- python>=3.8
+- anaconda
+- pip
+- pandas
+- scikit-learn
+- jupyter
+- pip:
+  tweepy
