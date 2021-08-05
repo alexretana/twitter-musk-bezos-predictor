@@ -7,4 +7,5 @@ dependencies:
 - scikit-learn
 - jupyter
 - pip:
-  tweepy
+  - tweepy
+  - nltk
